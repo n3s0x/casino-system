@@ -1,9 +1,7 @@
-import functions
+import functions_roulette
 import time
 
-functions.bienvenue()
-functions.mise()
-time.sleep(2.0)
-functions.roll()
-time.sleep(2.0)
-functions.gain()
+functions_roulette.bienvenue()
+functions_roulette.mise()
+functions_roulette.roll()
+functions_roulette.gain()
